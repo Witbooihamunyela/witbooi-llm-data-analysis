@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scipy
+matplotlib
+plotly
+python-dotenv
+google-genai
+websockets<17
